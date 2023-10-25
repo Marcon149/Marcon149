@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Procurando por uma oportunidade de estágio
+- 🔭 Consultor SAP PI na Fusion Consultoria
 - 🌱 Estudante de Ciência da Computação
 - 👯 Procurando aprender cada dia mais 
-- 💻 Buscando aprender Front-End
+- 💻 Buscando aprender Python
 
  <div>
   <a href="https://github.com/Marcon149">
